@@ -4,7 +4,7 @@
 ![Cypress](https://img.shields.io/badge/Cypress-E2E-brightgreen)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-darkgreen)
-# Cypress E2E Login & Dashboard
+# QA Automation & Manual Testing Portfolio – Cypress E2E Login & Dashboard
 
 This repository contains QA Automation testing using Cypress
 and manual test case documentation for a React application.
