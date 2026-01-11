@@ -1,3 +1,9 @@
+![QA](https://img.shields.io/badge/Role-QA%20Tester-blue)
+![Automation](https://img.shields.io/badge/Testing-Automation-green)
+![Manual](https://img.shields.io/badge/Testing-Manual-orange)
+![Cypress](https://img.shields.io/badge/Cypress-E2E-brightgreen)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-darkgreen)
 # Cypress E2E Login & Dashboard
 
 This repository contains QA Automation testing using Cypress
