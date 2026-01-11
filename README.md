@@ -6,8 +6,8 @@
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-darkgreen)
 # QA Automation & Manual Testing Portfolio – Cypress E2E Login & Dashboard
 
-This repository contains QA Automation testing using Cypress
-and manual test case documentation for a React application.
+This repository showcases my QA portfolio combining manual test case documentation
+and Cypress end-to-end automation testing for login and dashboard features.
 
 ## Tech Stack
 - Cypress
