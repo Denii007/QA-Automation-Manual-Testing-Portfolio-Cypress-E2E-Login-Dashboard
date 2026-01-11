@@ -19,10 +19,10 @@ Manual test cases are documented in the following file:
 ## Prerequisite
 Before running the automation tests, make sure the application under test
 ##is running locally on:
-##http://localhost:3000
+http://localhost:3000
 
 ## Example:
--npm start
+- npm start
 
 ##How to Run Automation Test
 - npm install
